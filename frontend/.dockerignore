@@ -1,0 +1,31 @@
+# Frontend logs and debug files
+/logs
+/*.log
+/npm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
+/pnpm-debug.log*
+/lerna-debug.log*
+
+# Frontend build and local environment files
+/node_modules
+/dist
+/dist-ssr
+/*.local
+/.vite/
+
+# Frontend IDE/editor and system files
+/.vscode/*
+/.vscode/extensions.json
+/.idea
+/.DS_Store
+/*.suo
+/*.ntvs*
+/*.njsproj
+/*.sln
+/*.sw?
+
+# Frontend Python cache and environment
+/__pycache__/
+/.env
+/*.pyc

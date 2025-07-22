@@ -34,3 +34,4 @@ docker network prune -f
 
 # Remove everything not used
 docker system prune -a -f --volumes
+postgresql://coolweb_user:HUKUMETISTIFA@db.oztzghysqlbegssyqyey.supabase.co:5432/postgres
